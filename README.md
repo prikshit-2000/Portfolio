@@ -40,5 +40,4 @@
 ![](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ## ⚡ Leetcode Stats
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=prikshitsingla78)](https://github.com/prikshit-2000/portfolio)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prikshitsingla78&show_icons=true&hide_border=true&layout=compact&hide_progress=true&langs_count=10"/>
 
