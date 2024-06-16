@@ -18,9 +18,9 @@
 </center>
 
 ## 💼 Work experience:
-  - **Software Engineer L2 : Gemini Solutions**
-  - **Data Science Intern : Quikr**
-  - **Data Science Intern : Saaspect**
+  - **Software Engineer L2 : Gemini Solutions (January 2022 - Present)**
+  - **Data Science Intern : Quikr (August 2021 - January 2022)** 
+  - **Data Science Intern : Saaspect (March 2021 - June 2021)**
     
 ## 👨🏻‍🎓 Academic experience:
   - **Bachelor of Engineering**: Computer Science at [Chitkara University](https://www.chitkara.edu.in/) (2018-2012)
