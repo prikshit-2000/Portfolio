@@ -8,8 +8,8 @@
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
   </a>
 
- <a href="https://medium.com/@prikshitsingla78/" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=512?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
+ <a href="https://leetcode.com/u/prikshitsingla78/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png alt="Leetcode"/>
   </a>
 </center>
 
