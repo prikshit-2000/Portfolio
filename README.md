@@ -25,7 +25,7 @@
 ## 👨🏻‍🎓 Academic experience:
   - **Bachelor of Engineering**: Computer Science at [Chitkara University](https://www.chitkara.edu.in/) (2018-2012)
 ## 📄 Resume 
-<a href="https://github.com/prikshit-2000/portfolio/raw/main/resume.pdf" target="_blank">
+<a href="https://github.com/prikshit-2000/prikshit-2000/raw/main/resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-%23000000.svg?&style=for-the-badge&logo=resume&logoColor=white&color=071A2C" alt="Resume"/>
   </a>
 
@@ -51,4 +51,4 @@
 ![](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=white)
 ![](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ## ⚡ Leetcode Stats
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=prikshitsingla78)](https://github.com/prikshit-2000/portfolio)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=prikshitsingla78)](https://github.com/prikshit-2000/prikshit-2000)
