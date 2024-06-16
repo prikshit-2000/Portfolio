@@ -9,7 +9,7 @@
   </a>
 
  <a href="https://leetcode.com/u/prikshitsingla78/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?&style=for-the-badge&logo=leetcode&logoColor=white&color=071A2C alt="Leetcode"/>
+    <img src="https://img.shields.io/badge/LeetCode-000000?&style=for-the-badge&logo=Leetcode&logoColor=white&color=071A2C alt="Leetcode"/>
   </a>
 </center>
 
