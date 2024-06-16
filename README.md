@@ -9,7 +9,7 @@
   </a>
 
  <a href="https://leetcode.com/u/prikshitsingla78/" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png alt="Leetcode"/>
+    <img src="https://img.shields.io/badge/LeetCode-000000?&style=for-the-badge&logo=leetcode&logoColor=white&color=071A2C alt="Leetcode"/>
   </a>
 </center>
 
@@ -25,7 +25,6 @@
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-![](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white)
 ![](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
