@@ -11,10 +11,22 @@
 <a href="https://leetcode.com/u/prikshitsingla78/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?&style=for-the-badge&logo=Leetcode&logoColor=white&color=071A2C" alt="Leetcode"/>
   </a>
+<a href="https://www.kaggle.com/prikshitsingla" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-%23000000.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=071A2C" alt="Kaggle"/>
+  </a>
 </center>
 
+## 💼 Work experience:
+  - **Software Engineer L2 : Gemini Solutions**
+  - **Data Science Intern : Quikr**
+  - **Data Science Intern : Saaspect**
+    
 ## 👨🏻‍🎓 Academic experience:
-  - **Bachelor of Engineering**: Computer Science at [Chitkara University](https://www.chitkara.edu.in/)
+  - **Bachelor of Engineering**: Computer Science at [Chitkara University](https://www.chitkara.edu.in/) (2018-2012)
+## 📄 Resume 
+<a href="https://github.com/prikshit-2000/portfolio/raw/main/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-%23000000.svg?&style=for-the-badge&logo=resume&logoColor=white&color=071A2C" alt="Resume"/>
+  </a>
 
 ### 📝 I write ✍️:
   - On [Medium](https://medium.com/@prikshitsingla78) about Programing and Data Engineering
