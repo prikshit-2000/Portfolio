@@ -52,5 +52,3 @@
 ![](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ## ⚡ Leetcode Stats
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=prikshitsingla78)](https://github.com/prikshit-2000/portfolio)
-## 🔥Leetcode Streak
-![LeetCode Streak](https://leetcode-stats-card.cyclic.app/prikshitsingla78?theme=default&hide=ranking&hide=total_problems)
